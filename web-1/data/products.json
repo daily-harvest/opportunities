@@ -1,0 +1,1352 @@
+[
+    {
+        "id": 1,
+        "name": "Acai + Cherry",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            31,
+            79,
+            81,
+            4,
+            51,
+            67
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/01-acai/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Carrot + Cinnamon",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            81,
+            86,
+            80,
+            78,
+            14,
+            44,
+            64,
+            21,
+            75,
+            197
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/02-carro/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Mango + Papaya",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            70,
+            57,
+            46,
+            72,
+            66
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/03-papa/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Strawberry + Peach",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            85,
+            81,
+            10,
+            51,
+            19,
+            38,
+            18
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/04-straw/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Cold Brew + Almond",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            30,
+            68,
+            81,
+            26,
+            71,
+            9,
+            75,
+            33
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/05-coldb/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Mint + Cacao",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            81,
+            17,
+            28,
+            26,
+            20,
+            75,
+            54
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/06-mint/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Pineapple + Matcha",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            72,
+            4,
+            34,
+            15,
+            32,
+            83
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/07-matcha/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Banana + Greens",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            81,
+            24,
+            4,
+            17,
+            29,
+            36
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/08-bana/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Cucumber + Greens",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            29,
+            13,
+            205,
+            76,
+            40,
+            24,
+            73,
+            4,
+            17
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/09-apple/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Mango + Greens",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            70,
+            24,
+            17,
+            5,
+            71,
+            15,
+            41
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/10-mango/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Chocolate + Blueberry",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            79,
+            81,
+            68,
+            17,
+            4,
+            80,
+            26,
+            75,
+            33,
+            3
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/11-choblu/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Cacao + Avocado",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            42,
+            2,
+            55,
+            80,
+            26,
+            71,
+            43,
+            75,
+            33
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/12-avoc/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Watermelon + Cucumber",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            35,
+            24,
+            51,
+            11,
+            5,
+            44,
+            15
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/13-whata/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Blueberry + Hemp",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            78,
+            219,
+            56,
+            1,
+            14,
+            79,
+            17,
+            4
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/14-blue/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Mushroom + Miso",
+        "collection": "Soup",
+        "ingredientIds": [
+            194,
+            61,
+            27,
+            12,
+            47,
+            65,
+            39,
+            165,
+            45,
+            25,
+            76,
+            58,
+            74,
+            63
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/15-ramen/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Carrot + Coconut",
+        "collection": "Soup",
+        "ingredientIds": [
+            86,
+            37,
+            62,
+            45,
+            77,
+            16,
+            76,
+            6,
+            59,
+            74,
+            84,
+            49,
+            60
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/16-curry/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Tomato + Zucchini Minestrone",
+        "collection": "Soup",
+        "ingredientIds": [
+            53,
+            62,
+            22,
+            69,
+            59,
+            52,
+            29,
+            7,
+            50,
+            82,
+            87,
+            8
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/17-mines/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Blackberry + Majik",
+        "collection": "Chia Bowl",
+        "ingredientIds": [
+            112,
+            81,
+            90,
+            110,
+            100,
+            111,
+            34
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/c1-black/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Mango + Turmeric",
+        "collection": "Chia Bowl",
+        "ingredientIds": [
+            72,
+            70,
+            112,
+            111,
+            13,
+            64,
+            14,
+            99,
+            120,
+            113
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/c3-gold/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 20,
+        "name": "Chocolate + Almond",
+        "collection": "Chia Bowl",
+        "ingredientIds": [
+            81,
+            112,
+            115,
+            43,
+            111,
+            26,
+            102
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/c4-choc/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Cinnamon + Banana",
+        "collection": "Oat Bowl",
+        "ingredientIds": [
+            119,
+            118,
+            43,
+            64,
+            109,
+            81,
+            165,
+            114
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/d1-bana/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Mulberry + Dragon Fruit",
+        "collection": "Oat Bowl",
+        "ingredientIds": [
+            114,
+            51,
+            79,
+            107,
+            93
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/d2-berry/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Pumpkin + Chai",
+        "collection": "Oat Bowl",
+        "ingredientIds": [
+            96,
+            114,
+            106,
+            118,
+            117,
+            64,
+            14,
+            99,
+            21
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/d3-pump/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Cacao Cookie Dough",
+        "collection": "Sundae",
+        "ingredientIds": [
+            77,
+            80,
+            34,
+            121,
+            123,
+            33,
+            119,
+            125,
+            129
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/e1-dough/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 25,
+        "name": "Salted Caramel",
+        "collection": "Sundae",
+        "ingredientIds": [
+            48,
+            81,
+            80,
+            34,
+            127,
+            112,
+            33,
+            118,
+            125,
+            64
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/e2-swepot/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Strawberry Cheesecake",
+        "collection": "Sundae",
+        "ingredientIds": [
+            85,
+            77,
+            34,
+            80,
+            132,
+            131,
+            130,
+            29,
+            118,
+            128,
+            33,
+            125
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/e3-strche/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Chocolate Hazelnut Sundae",
+        "collection": "Sundae",
+        "ingredientIds": [
+            34,
+            43,
+            33,
+            125,
+            81,
+            124,
+            80,
+            26,
+            2
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/e4-chohaz/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Chocolate Brownie Batter",
+        "collection": "Sundae",
+        "ingredientIds": [
+            34,
+            42,
+            80,
+            26,
+            126,
+            2,
+            122,
+            43,
+            33,
+            125
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/e5-fugbro/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Coffee Crunch",
+        "collection": "Sundae",
+        "ingredientIds": [
+            77,
+            34,
+            80,
+            26,
+            30,
+            118,
+            33,
+            111,
+            131,
+            125
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/e6-coffee/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Lentil + Mesquite Chili",
+        "collection": "Soup",
+        "ingredientIds": [
+            137,
+            26,
+            33,
+            150,
+            135,
+            139,
+            141,
+            48,
+            146,
+            4
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/b4-chili/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Cauliflower + Leek Stew",
+        "collection": "Soup",
+        "ingredientIds": [
+            77,
+            145,
+            17,
+            152,
+            149,
+            33,
+            120
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/b5-leek/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Turmeric + Lemongrass Broth",
+        "collection": "Soup",
+        "ingredientIds": [
+            42,
+            133,
+            144,
+            138,
+            147,
+            134,
+            151,
+            148,
+            150,
+            13,
+            136,
+            140
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/b6-thai/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 33,
+        "name": "Chai + Coconut",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            143,
+            122,
+            173,
+            153,
+            42,
+            34
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/a15-chai/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Cauliflower Rice + Kimchi",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            77,
+            157,
+            134,
+            76,
+            148,
+            170,
+            156
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f1-kimchi/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Cauliflower Rice + Pesto",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            77,
+            17,
+            160,
+            149,
+            28
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f2-pesto/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 36,
+        "name": "Red Lentil + Cumin",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            155,
+            77,
+            86,
+            34,
+            17,
+            150,
+            76,
+            169,
+            128
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f3-indi/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 37,
+        "name": "Brussels Sprouts + Tahini",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            155,
+            163,
+            165,
+            152,
+            124,
+            168,
+            13
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f4-bruss/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Quinoa + Chipotle",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            137,
+            26,
+            150,
+            158,
+            164,
+            4,
+            146,
+            16
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f5-mesq/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 39,
+        "name": "Butternut Squash + Chimichurri",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            167,
+            162,
+            165,
+            17,
+            150,
+            161,
+            159,
+            139
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f6-chimi/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 40,
+        "name": "Chaga + Chocolate",
+        "collection": "Lattes",
+        "ingredientIds": [
+            26,
+            171,
+            174,
+            63,
+            27
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/g1-chaga/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 41,
+        "name": "Matcha + Lemongrass",
+        "collection": "Lattes",
+        "ingredientIds": [
+            171,
+            151,
+            172,
+            173,
+            20
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/g2-bullet/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 42,
+        "name": "Ginger + Turmeric",
+        "collection": "Lattes",
+        "ingredientIds": [
+            76,
+            176,
+            49,
+            171,
+            13
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/g3-turm/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 43,
+        "name": "Dragon Fruit + Lychee",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            85,
+            177,
+            178,
+            18,
+            175
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/a16-pink/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 44,
+        "name": "Coffee + Cardamom",
+        "collection": "Lattes",
+        "ingredientIds": [
+            171,
+            180,
+            168,
+            99,
+            3,
+            179
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/g4-cafe/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 45,
+        "name": "Tomato + Bell Pepper Gazpacho",
+        "collection": "Soup",
+        "ingredientIds": [
+            185,
+            10,
+            184,
+            24,
+            159,
+            128
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/b7-gazp/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 46,
+        "name": "Avocado + Cucumber",
+        "collection": "Soup",
+        "ingredientIds": [
+            103,
+            24,
+            205,
+            173,
+            202
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/b8-cucu/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 47,
+        "name": "Asparagus + Zucchini",
+        "collection": "Soup",
+        "ingredientIds": [
+            42,
+            138,
+            143,
+            149,
+            181
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/b9-aspa/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 48,
+        "name": "Beet + Avocado Poké",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            175,
+            2,
+            66,
+            134,
+            76,
+            170,
+            191
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f7-poke/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 49,
+        "name": "Chickpea + Za'atar",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            189,
+            188,
+            121,
+            42,
+            185,
+            187
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f8-zata/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 50,
+        "name": "Kale + Lemongrass",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            184,
+            4,
+            34,
+            134,
+            151,
+            190
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f9-grass/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 51,
+        "name": "Chocolate + Hazelnut",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            81,
+            124,
+            71,
+            26,
+            2,
+            43
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/a18-haze/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 52,
+        "name": "Vanilla Bean + Cacao",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            83,
+            40,
+            121,
+            98,
+            34,
+            119
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/a19-cook/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 53,
+        "name": "Black Sesame + Zucchini",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            81,
+            42,
+            143,
+            128,
+            33,
+            148
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/a20-same/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 54,
+        "name": "Ginger + Greens",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            17,
+            81,
+            2,
+            76,
+            128,
+            18
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/a17-ging/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 55,
+        "name": "Broccoli + Cheeze",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            197,
+            195,
+            48,
+            16,
+            196,
+            183,
+            149
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f10-cheeze/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 56,
+        "name": "Lentil + Tomato Bolognese",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            87,
+            141,
+            185,
+            192,
+            4,
+            50
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f11-nara/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 57,
+        "name": "Brussels Sprouts + Lime Pad Thai",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            163,
+            4,
+            194,
+            115,
+            193,
+            134
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f12-kelp/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 58,
+        "name": "Coconut Lemon",
+        "collection": "Cookie",
+        "ingredientIds": [
+            34,
+            198,
+            200,
+            29,
+            76,
+            176
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/h01-lemon/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 59,
+        "name": "Cacao Nib",
+        "collection": "Cookie",
+        "ingredientIds": [
+            121,
+            198,
+            200,
+            196,
+            119,
+            3
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/h02-chip/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 60,
+        "name": "Chocolate Chia",
+        "collection": "Cookie",
+        "ingredientIds": [
+            26,
+            2,
+            196,
+            200,
+            103,
+            199
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/h03-fudge/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 61,
+        "name": "Apple + Cinnamon",
+        "collection": "Oat Bowl",
+        "ingredientIds": [
+            40,
+            98,
+            201,
+            143,
+            115,
+            176
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/d4-fall/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 62,
+        "name": "Sweet Potato + Wild Rice Hash",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            185,
+            203,
+            206,
+            197,
+            205,
+            207
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f13-rito/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 63,
+        "name": "Broccoli Rice + Dill Pilaf",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            204,
+            209,
+            202,
+            196,
+            127,
+            173
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f14-dill/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 64,
+        "name": "Spinach + Shiitake Grits",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            143,
+            210,
+            17,
+            208,
+            149,
+            183
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f15-grits/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 65,
+        "name": "Butternut Squash + Kale Shakshuka",
+        "collection": "Harvest Bowl",
+        "ingredientIds": [
+            143,
+            185,
+            165,
+            4,
+            18,
+            211
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/f16-shuka/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 66,
+        "name": "Cold Brew + Cacao",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            30,
+            213,
+            179,
+            26,
+            143,
+            34
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/a21-mocha/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 67,
+        "name": "Cherry + Almond",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            85,
+            31,
+            115,
+            212,
+            83,
+            216
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/a22-pbnj/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 68,
+        "name": "Black Sesame + Banana",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            79,
+            81,
+            17,
+            214,
+            42,
+            215
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/a23-sesa/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 69,
+        "name": "Watermelon + Dragon Fruit",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            178,
+            103,
+            217,
+            219,
+            218,
+            24
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/a24-melo/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 70,
+        "name": "Coconut + Lemon",
+        "collection": "Bites",
+        "ingredientIds": [
+            34,
+            80,
+            29,
+            76,
+            176,
+            49
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/h04-roon/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 71,
+        "name": "Cacao Nib + Vanilla",
+        "collection": "Bites",
+        "ingredientIds": [
+            121,
+            80,
+            34,
+            26,
+            96,
+            3,
+            83
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/h05-nibs/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 72,
+        "name": "Hazelnut + Chocolate",
+        "collection": "Bites",
+        "ingredientIds": [
+            205,
+            80,
+            124,
+            26,
+            199,
+            112,
+            83
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/h06-nuts/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 73,
+        "name": "Kabocha + Spice",
+        "collection": "Lattes",
+        "ingredientIds": [
+            61,
+            34,
+            76,
+            220,
+            180,
+            176
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/g05-spice/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 74,
+        "name": "Sweet Potato + Miso Purée",
+        "collection": "Soup",
+        "ingredientIds": [
+            197,
+            193,
+            156,
+            199,
+            221,
+            222
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/b10-miso/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 75,
+        "name": "Butternut Squash + Rosemary Purée",
+        "collection": "Soup",
+        "ingredientIds": [
+            165,
+            220,
+            152,
+            207,
+            82
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/b11-bnut/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 76,
+        "name": "Tart Cherry + Raspberry",
+        "collection": "Smoothie",
+        "ingredientIds": [
+            143,
+            223,
+            79,
+            51,
+            219
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/a25-razz/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 77,
+        "name": "Chocolate + Peppermint CBD",
+        "collection": "Lattes",
+        "ingredientIds": [
+            213,
+            171,
+            224,
+            54,
+            26
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/g06-pepp/product-shot.jpeg"
+        }
+    },
+    {
+        "id": 78,
+        "name": "Green Chickpea + Turmeric",
+        "collection": "Soup",
+        "ingredientIds": [
+            225,
+            133,
+            150,
+            76,
+            13
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/b12-banzo/product-shot-ingredients.jpeg"
+        }
+    },
+    {
+        "id": 79,
+        "name": "Coffee + Almond",
+        "collection": "Lattes",
+        "ingredientIds": [
+            180,
+            115,
+            197
+        ],
+        "image": {
+            "url": "http://www.daily-harvest.com/static/img/products/g07-buzz/product-shot.jpeg"
+        }
+    }
+]
