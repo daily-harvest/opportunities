@@ -8,9 +8,9 @@ At Daily Harvest, we want to make it as easy as possible for our customers to ge
 
 We have provided two mock API endpoints for fetching product and ingredient data:
 
-https://storage.googleapis.com/dh-candidate-resources/frontend-candidate/products.json
+https://raw.githubusercontent.com/daily-harvest/opportunities/master/web-1/data/products.json
 
-https://storage.googleapis.com/dh-candidate-resources/frontend-candidate/ingredients.json
+https://raw.githubusercontent.com/daily-harvest/opportunities/master/web-1/data/ingredients.json
 
 Since Daily Harvest uses React and Redux, we'd like you to write a simple React app that allows the end user to enter an ingredient search term into an input field and return the set of products that contain that ingredient. Please be sure to cover any edge cases you might think of, and include any instructions for configuring and running your app along with your solution.
 
