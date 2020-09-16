@@ -35,7 +35,8 @@ Good luck! We hope that you enjoy completing this challenge and look forward to 
 
 # End Goal
 
-Using your code, we can add keys/key.json and stand up infrastructure in AWS or GCP.
+The code you submit should work as is. We will take your code and test standing everything up. We will use our own keys so PLEASE do not include your keys or have the keys coded into your submision.
+
 We should be able to access the load balancer IP on port 80 and get a page that says "Smoothie Power!"
 
 # Notes
