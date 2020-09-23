@@ -33,9 +33,16 @@ Good luck! We hope that you enjoy completing this challenge and look forward to 
     * Load Balancer
         * dh.smoothiemachine.local
 
+**Please do not include any pem files**
+
+**Please do not use key files at all in your code--they aren't required to create instances and we don't need them since we won't be logging into the servers**
+
 # End Goal
 
-The code you submit should work as is. We will take your code and test standing everything up. We will use our own keys so PLEASE do not include your keys or have the keys coded into your submision.
+The code you submit should work as is. We will take your code and test standing everything up. 
+
+Everything should be created after a `terraform init` then `terraform apply` on our side.
+
 
 We should be able to access the load balancer IP on port 80 and get a page that says "Smoothie Power!"
 
